@@ -1,1 +1,6 @@
-assets/
+assets/*
+!assets/MAHT4.png
+!assets/team1.jpg
+!assets/logo1.png
+
+
